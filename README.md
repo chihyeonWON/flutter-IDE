@@ -43,3 +43,7 @@ AVD Manager Pixel 2 기종을 선택하고 R버전을 선택
 에뮬레이터가 정상적으로 작동하는 것을 확인할 수 있었습니다.
 ![image](https://user-images.githubusercontent.com/58906858/209283033-14006d5b-bc20-4dce-abc5-25c4825e3883.png)
 
+## 에뮬레이터 한국어 설정
+
+에뮬레이터가 영어면 한국어 키보드가 작동하지 않기에 한국어 설정을 진행합니다.
+![image](https://user-images.githubusercontent.com/58906858/209283771-b1f77ad4-111c-4585-bf36-f97d74f5f4dc.png)
